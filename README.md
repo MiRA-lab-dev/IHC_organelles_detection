@@ -1,5 +1,6 @@
 # IHC_organelles_detection
 
+This repository includes all source codes of paper: Structural Evidence of a Fine-tuned Cytoarchitecture for Heterogeneous Synaptic Function in Cochlear Inner Hair Cell.
 
 
 
