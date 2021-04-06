@@ -2,8 +2,7 @@
 
 This repository provides the implementation of deep networks in this paper: Structural Evidence of a Fine-tuned Cytoarchitecture for Heterogeneous Synaptic Function in Cochlear Inner Hair Cell.
 
-
-# 
+![image](https://github.com/MiRA-lab-dev/IHC_organelles_detection/blob/main/3D%20UNet.png)
 
 
 
